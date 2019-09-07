@@ -80,4 +80,5 @@
 		<name>Code Fountain</name>
 		<url>https://medium.com/musibs</url>
 	</organization>
+	<packaging>war</packaging>
 </project>
