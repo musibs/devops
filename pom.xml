@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>io.codefountain.devops</groupId>
 	<artifactId>DevOps</artifactId>
-	<version>1.0.1</version>
+	<version>1.0.2-SNAPSHOT</version>
 	<name>DevOps</name>
 	<description>Spring Boot DevOps Project</description>
 
@@ -80,7 +80,7 @@
 		<connection>scm:git:git@github.com:musibs/devops.git</connection>
 		<developerConnection>scm:git:git@github.com:musibs/devops.git</developerConnection>
 		<url>git@github.com:musibs/devops.git</url>
-		<tag>v@1.0.1-SNAPSHOT</tag>
+		<tag>HEAD</tag>
 	</scm>
 	<organization>
 		<name>Code Fountain</name>
